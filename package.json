@@ -46,12 +46,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codebymurtaza/product_search.git"
+    "url": "git+https://github.com/murtazahassani69/search_product.git"
   },
   "author": "murtaza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codebymurtaza/product_search/issues"
+    "url": "https://github.com/murtazahassani69/search_product.git/issues"
   },
-  "homepage": "https://github.com/codebymurtaza/product_search#readme"
+  "homepage": "https://github.com/murtazahassani69/search_product.git#readme"
 }
